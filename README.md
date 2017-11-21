@@ -15,4 +15,3 @@ k8s
 3. Create a Service file
 4. Create a ingress file
 5. Create a secret file
-
